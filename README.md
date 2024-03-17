@@ -1,16 +1,20 @@
-### Hi there 👋
+<!---
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hello%20there%20👋&fontSize=90)
+--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=90)
+# Welcome to my profile 😎!
 
-<!--
-**zzhangpurdue/zzhangpurdue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Zhicheng Zhang from Alibaba and ModelScope team.
 
-Here are some ideas to get you started:
+I'd glad to here questions about ModelScope from community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me at 📧⠀Email: <a href="zzhang.purdue@gmail.com">**zzhang.purdue@gmail.com**</a><br>
+
+## GitHub Stats:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhangpurdue&theme=tokyonight&hide_border=true)](https://qtpc.tech)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhangpurdue&theme=tokyonight&layout=compact&hide_border=true)](https://qtpc.tech)
+***
+
+## And thank you for checking out my profile!
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
